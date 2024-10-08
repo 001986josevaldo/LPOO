@@ -1,4 +1,4 @@
-LPOO - Laboratório de Programação Orientado ao Objeto
+LPOO - Laboratório de Programação Orientada a Objetos
 
 Descrição da Disciplina
 
