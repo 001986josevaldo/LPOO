@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 LPOO - Laboratório de Programação Orientada a Objetos
+=======
+<<<<<<< HEAD
+# LPOO
+Laboratório de Programação Orientado ao Objeto
+=======
+LPOO - Laboratório de Programação Orientado ao Objeto
+>>>>>>> 7e88423e2279fa772cc7698d3abe89682477ff17
 
 Descrição da Disciplina
 
@@ -42,3 +50,4 @@ Git e GitHub : Ferramentas para controle de versão e colaboração em projetos.
 Licença
 
 Este projeto está sob a licença MIT - veja o arquivo LICENÇA para mais detalhes.
+>>>>>>> master
