@@ -10,4 +10,4 @@ p = Pessoa("Josevaldo", 25)
 # Chamando o método dizer_ola
 p.dizer_ola()
 
-# Criando
+# Criando uma instância da classe Pessoa
