@@ -1,7 +1,6 @@
 
 Laboratório de Programação Orientado ao Objeto
 =======
-LPOO - Laboratório de Programação Orientado ao Objeto
 
 Descrição da Disciplina
 
