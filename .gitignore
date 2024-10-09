@@ -6,3 +6,6 @@ output/
 
 # ignorar pdf
 *.pdf
+# ignorar exe
+*.exe
+*.o
