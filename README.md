@@ -45,4 +45,3 @@ Git e GitHub : Ferramentas para controle de versão e colaboração em projetos.
 Licença
 
 Este projeto está sob a licença MIT - veja o arquivo LICENÇA para mais detalhes.
->>>>>>> master
