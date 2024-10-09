@@ -1,5 +1,5 @@
 
-Laboratório de Programação Orientado ao Objeto
+Laboratório de Programação Orientada a Objetos
 =======
 
 Descrição da Disciplina
